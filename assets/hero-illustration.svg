@@ -1,0 +1,28 @@
+<svg width="620" height="560" viewBox="0 0 620 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="g" x1="90" y1="40" x2="540" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#7B68EE"/><stop offset=".55" stop-color="#A78BFA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+ <linearGradient id="card" x1="140" y1="100" x2="500" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F3FF"/></linearGradient>
+ <filter id="shadow" x="60" y="50" width="500" height="460" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="25" stdDeviation="25" flood-color="#5144A6" flood-opacity=".18"/></filter>
+</defs>
+<circle cx="310" cy="280" r="235" fill="url(#g)" opacity=".12"/>
+<circle cx="510" cy="90" r="48" fill="#FBBF24" opacity=".28"/><circle cx="92" cy="440" r="34" fill="#5EEAD4" opacity=".3"/>
+<g filter="url(#shadow)" transform="rotate(-4 310 280)">
+<rect x="105" y="80" width="410" height="360" rx="30" fill="url(#card)"/>
+<rect x="135" y="110" width="350" height="46" rx="16" fill="#F0EDFF"/>
+<circle cx="160" cy="133" r="10" fill="#7B68EE"/><rect x="182" y="125" width="150" height="16" rx="8" fill="#DAD4FF"/>
+<rect x="145" y="185" width="180" height="110" rx="22" fill="#FFFFFF" stroke="#E8E3FF"/>
+<circle cx="235" cy="235" r="38" fill="#EEEAFE"/><path d="M218 238c0-20 12-35 30-35 17 0 29 12 29 29 0 19-15 34-34 34-14 0-25-8-25-20 0-7 4-12 10-15" stroke="#7B68EE" stroke-width="9" stroke-linecap="round"/>
+<rect x="350" y="185" width="110" height="16" rx="8" fill="#DAD4FF"/><rect x="350" y="213" width="80" height="11" rx="5.5" fill="#E7E4EF"/>
+<rect x="350" y="239" width="92" height="11" rx="5.5" fill="#E7E4EF"/><rect x="350" y="265" width="64" height="11" rx="5.5" fill="#E7E4EF"/>
+<rect x="145" y="320" width="315" height="72" rx="18" fill="#FAF9FF"/>
+<rect x="165" y="340" width="150" height="12" rx="6" fill="#DAD4FF"/><rect x="165" y="363" width="230" height="9" rx="4.5" fill="#E8E5F0"/>
+<circle cx="427" cy="355" r="20" fill="#5EEAD4"/><path d="m418 355 7 7 12-15" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(410 370) rotate(8)">
+<rect width="150" height="95" rx="22" fill="#171528" opacity=".94"/>
+<rect x="18" y="18" width="114" height="12" rx="6" fill="#8B7CF0"/>
+<rect x="18" y="42" width="82" height="9" rx="4.5" fill="#4D4964"/>
+<rect x="18" y="62" width="96" height="9" rx="4.5" fill="#4D4964"/>
+<circle cx="122" cy="66" r="9" fill="#5EEAD4"/>
+</g>
+</svg>
