@@ -1,0 +1,9 @@
+{
+  "name": "MemoriseALLOFIT",
+  "short_name": "MemoriseALLOFIT",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#6c5ce7",
+  "description": "A playful, private memorisation app."
+}
